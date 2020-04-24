@@ -3,7 +3,7 @@
 ## Getting started
 
 ```bash
-$ git clone git@github.com:hideokamoto/example-frontity-wordpress.git
+$ git clone git@github.com:getshifter/example-frontity-wordpress.git
 $ cd example-frontity-wordpress
 $ npm install
 $ npm run dev
